@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item android:title="Manage books"
+            android:id="@+id/manage_book"
+            />
+        <item android:title="Orders"
+            android:id="@+id/manage_order"
+            />
+        <item android:title="Generate bill"
+            android:id="@+id/generate_bill"
+            />
+        <item android:title="Reports"
+            android:id="@+id/view_report"
+            />
+        <item android:title="Logout"
+            android:id="@+id/logout"
+            />
+    </group>
+</menu>

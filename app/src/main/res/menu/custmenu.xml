@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item android:title="View Wishlist"
+            android:id="@+id/view_wishlist"
+            />
+        <item android:title="View Cart"
+            android:id="@+id/view_cart"
+            />
+
+        <item android:title="Logout"
+            android:id="@+id/logout"
+            />
+    </group>
+</menu>
